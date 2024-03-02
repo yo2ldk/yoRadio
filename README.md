@@ -1,6 +1,9 @@
 original source:
 <https://github.com/e2002/yoradio/>
 
+![nelu](https://github.com/yo2ldk/yoRadio/assets/1875591/feaa641e-4c26-4a04-86dc-395de9b24425)
+
+
 myoptions file configurations (for display, encoder,sd card, etc)
 <https://e2002.github.io/docs/myoptions-generator.html>
 
